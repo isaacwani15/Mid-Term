@@ -1,0 +1,44 @@
+head{
+    background-color: red;
+
+}
+footer{
+    background-color: red;
+    border: 3px solid black;
+}
+body{
+    max-width: 1200px;
+    margin: auto;
+    width: 100%;
+    background-color: orange;
+}
+h1{
+    font-size: 36px;
+    color: aqua;
+}
+h2{
+    font: size 12px;
+    color:red
+}
+main{
+    height: 70vh;
+    color:orange
+}
+figure{
+background-color: orange;
+color: red;
+width: 45%;
+height:60%
+
+}
+ul li {
+    list-style: none;
+    text-decoration: red;
+    font-size: large;
+}
+a:hover {
+    color: darkblue;
+}
+head{
+    color: yellow;
+}
